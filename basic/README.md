@@ -21,7 +21,7 @@ tags = {
 // Example of two user blocks. These will be handled as a slice of users in the `Configuration`
 // struct.
 user {
-  username        = "flores"
+  username        = "floresj"
   first_name      = "John"
   last_name       = "Flores"
   cloud_providers = ["AWS"]
